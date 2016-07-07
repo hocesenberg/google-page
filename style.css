@@ -1,0 +1,33 @@
+
+header{
+  text-align: right;
+}
+.google-logo{
+max-width: 70%
+}
+img{
+  max-width: 100%;
+}
+section{
+  display: block;
+max-width: 100%;
+margin: auto;
+text-align: center;
+}
+
+.google-s{
+width: 70%;
+}
+
+.search,.lucky{
+display:inline-flex;
+}
+
+footer
+{
+  display: inline-flex;
+  margin-top: 100%;
+  margin-left: 40%;
+  text-align: auto;
+  padding: 0 12px;
+}
